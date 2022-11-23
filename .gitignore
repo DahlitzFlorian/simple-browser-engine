@@ -1,0 +1,10 @@
+# build directory
+/target
+
+# OSX
+_DS_Store
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
