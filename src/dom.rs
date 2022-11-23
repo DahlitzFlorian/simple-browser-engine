@@ -1,6 +1,6 @@
 use std::collections::{HashMap, HashSet};
 
-type AttributeMap = HashMap<String, String>;
+pub type AttributeMap = HashMap<String, String>;
 
 #[derive(Debug)]
 pub struct Node {
